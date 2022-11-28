@@ -1,0 +1,1 @@
+The photo files of question1 are deleted since the zip is too large
